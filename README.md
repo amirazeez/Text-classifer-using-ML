@@ -1,2 +1,2 @@
 # Text-classifer-using-ML
-Text classification using 
+Text classification using Naive Bayes and SVM
